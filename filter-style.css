@@ -1,0 +1,15 @@
+body { background: #f3f3f3; }
+
+.card {
+	height: 100px;
+	margin: 10px;
+	border-radius: 0;
+	border:none;
+}
+
+
+.pink { background:#E494D3; }
+.blue { background: #88BBE4; }
+.green { background:#87DCC0;}
+.all { background: #C5AEB4;}
+ 
